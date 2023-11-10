@@ -1,5 +1,7 @@
 ### SaveTheVillage
 
+You can have an .exe here : https://shino974.itch.io/3dgb-save-the-village
+
 ## Table of Contents
 - [Description](#description)
 - [Prerequisites](#prerequisites)
