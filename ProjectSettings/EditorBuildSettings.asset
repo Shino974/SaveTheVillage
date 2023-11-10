@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 6300075f5a372b046a727c82cea6e774
+  - enabled: 1
+    path: Assets/Scenes/1_Village_Depart.unity
+    guid: 1acdf4a46ca32c24cbba27e105b0ec0e
+  - enabled: 1
+    path: Assets/Scenes/2_Zone_Sauvage.unity
+    guid: 90ef1dd80ce800b4abe313a11250b862
+  - enabled: 1
+    path: Assets/Scenes/Dead.unity
+    guid: 476752ec5b4e18742a332006ccf6f18d
+  - enabled: 1
+    path: Assets/Scenes/Victory.unity
+    guid: 251033d60c4b8ef4ba959594464bf8e1
+  m_configObjects: {}
